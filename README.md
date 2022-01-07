@@ -11,7 +11,7 @@ By [Jiafei Duan](https://duanjiafei.com/). If you see papers missing from the li
   - [Probalistic Simulation Model](#probsimulation)
   - [Perception-based Deep Learning Model](#percetionbased)
   - [Heuristic & Rule-based Model](#heuristic)
-  - [Psychology Literatures](#psychology)
+  - [Cognitive Science Literatures](#psychology)
 - [Datasets](#datasets)
 - [Physics Engine](#physengine)
 - [Resources](#resources)
@@ -69,7 +69,7 @@ CVPR, 2016. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/html/Motta
 Preprint, 2021. [[Paper]](https://arxiv.org/abs/2111.08826) 
 
 
-### <a name="psychology"></a>Psychology Literatures
+### <a name="psychology"></a>Cognitive Science Literatures
 * **Intuitive Physics** <br>
 *Michael McCloskey* <br>
 Scientific American, 1983. [[Paper]](https://www.jstor.org/stable/24968881) 
