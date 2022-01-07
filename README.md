@@ -95,10 +95,6 @@ Proceedings of the National Academy of Sciences, 2013. [[Paper]](https://www.pna
 *Daniel M. Bear, Elias Wang, Damian Mrowca, Felix J. Binder, Hsiau-Yu Fish Tung, R. T. Pramod, Cameron Holdaway, Sirui Tao, Kevin Smith, Fan-Yun Sun, Li Fei-Fei, Nancy Kanwisher, Joshua B. Tenenbaum, Daniel L. K. Yamins, Judith E. Fan * <br>
 NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2106.08261v2.pdf) [[Code]](https://github.com/cogtoolslab/physics-benchmarking-neurips2021)
 
-* **Physion: Evaluating Physical Prediction from Vision in Humans and Machines.** <br>
-*Daniel M. Bear, Elias Wang, Damian Mrowca, Felix J. Binder, Hsiau-Yu Fish Tung, R. T. Pramod, Cameron Holdaway, Sirui Tao, Kevin Smith, Fan-Yun Sun, Li Fei-Fei, Nancy Kanwisher, Joshua B. Tenenbaum, Daniel L. K. Yamins, Judith E. Fan * <br>
-NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2106.08261v2.pdf) [[Code]](https://github.com/cogtoolslab/physics-benchmarking-neurips2021)
-
 * **SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments.** <br>
 *Jiafei Duan, Samson Yu, Cheston Tan * <br>
 ICCV SEAI Workshop, 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021W/SEAI/html/Duan_SPACE_A_Simulator_for_Physical_Interactions_and_Causal_Learning_in_ICCVW_2021_paper.html) [[Code]](https://github.com/jiafei1224/SPACE)
