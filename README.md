@@ -14,11 +14,11 @@ Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers m
 
 
 <p align="center">
-  <img width="860" height="500" src="fig2-1.png">
+  <img width="500" height="900" src="Table.png">
 </p>
 
 <p align="center">
-   <em>Summary of the six physical reasoning tasks</em>
+   <em>Summary of the work for intuitive physics for machine cognition.</em>
 </p>
 
 ## Table of Content
@@ -41,6 +41,14 @@ When sending PRs, please put the new paper at the correct chronological position
 *Author(s)* <br>
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ```
+<p align="center">
+  <img width="880" height="500" src="fig2-1.png">
+</p>
+
+<p align="center">
+   <em>Summary of the six physical reasoning tasks</em>
+</p>
+
 
 ## <a name="papers"></a> Papers on Intutive Physics for AI
 
