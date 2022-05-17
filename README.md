@@ -1,5 +1,5 @@
 # Awesome Intuitive Physics AI ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-This repository contains resources from the accepted survey paper on ["A Survey on Machine Learning Approaches for Modelling Intuitive Physics"](https://arxiv.org/abs/2202.06481) for the IJCAI-ECAI 2022 (Survey Track) with **18% Acceptance Rate**.
+This repository contains resources from the accepted survey paper on ["A Survey on Machine Learning Approaches for Modelling Intuitive Physics"](https://arxiv.org/abs/2202.06481) for the IJCAI-ECAI 2022 (Survey Track) with *18% Acceptance Rate*.
 
 With inspiration from, the [awesome](https://github.com/sindresorhus/awesome) lists and and [awesome-cogsci](https://github.com/abi-aryan/awesome-cogsci).
 
@@ -18,7 +18,7 @@ By [Jiafei Duan](https://duanjiafei.com/). If you see papers missing from the li
 - [Facets of Physical Reasoning for AI](#papers)
   - [Prediction](#prediction)  
   - [Inference](#inference)
-  - [Causal Reasoning](#causal reasoning)
+  - [Causal Reasoning](#causalreasoning)
 - [Revalent Surveys](#survey)
 - [Physics Engine](#physengine)
 - [Resources](#resources)
@@ -40,19 +40,15 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 *Michael McCloskey* <br>
 Scientific American, 1983. [[Paper]](https://www.jstor.org/stable/24968881) 
 
-* **Intuitive physics: the straight-down belief and its origin.** <br>
+* **Intuitive physics: the straight-down belief and its origin** <br>
 *McCloskey, Michael, Allyson Washburn, and Linda Felch* <br>
 Journal of Experimental Psychology: Learning, Memory, and Cognition 9, 1983. [[Paper]](https://psycnet.apa.org/record/1984-11308-001) 
 
-* **Mind games: Game engines as an architecture for intuitive physics.** <br>
+* **Mind games: Game engines as an architecture for intuitive physics** <br>
 *Ullman, Tomer D., Elizabeth Spelke, Peter Battaglia, and Joshua B. Tenenbaum* <br>
 Trends in cognitive sciences, 2017. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1364661317301134) 
 
-* **Intuitive physics: Current research and controversies.** <br>
-*Kubricht, James R., Keith J. Holyoak, and Hongjing Lu* <br>
-Trends in cognitive sciences, 2017. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1364661317301262) 
-
-* **Simulation as an engine of physical scene understanding.** <br>
+* **Simulation as an engine of physical scene understanding** <br>
 *Battaglia, Peter W., Jessica B. Hamrick, and Joshua B. Tenenbaum* <br>
 Proceedings of the National Academy of Sciences, 2013. [[Paper]](https://www.pnas.org/content/110/45/18327.short) 
 
@@ -151,7 +147,7 @@ ICLR, 2020. [[Paper]](https://papers.nips.cc/paper/2018/file/842424a1d0595b76ec4
 *Rama Krishna Kandukuri, Jan Achterhold, Michael Moeller, and Joerg Stueckler* <br>
 IJCV, 2022. [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01493-5) [[Code]](https://github.com/pulkitag/pyphy-engine)
 
-### <a name="causal reasoning"></a> Causal Reasoning
+### <a name="causalreasoning"></a> Causal Reasoning
 
 * **Probing physics knowledge using tools from developmental psychology** <br>
 *Luis Piloto, Ari Weinstein, Dhruva TB, Arun Ahuja, Mehdi Mirza, Greg Wayne, David Amos, Chia-chun Hung, and Matt Botvinick* <br>
@@ -185,9 +181,17 @@ ACL, 2022. [[Paper]](https://arxiv.org/abs/2012.04293) [[Code]](https://github.c
 *Kexin Yi, Chuang Gan, Yunzhu Li, Pushmeet Kohli, Jiajun Wu, Antonio Torralba, and Joshua B.Tenenbaum* <br>
 ICLR, 2020. [[Paper]](https://arxiv.org/abs/1910.01442) [[Code]](https://github.com/chuangg/CLEVRER)
 
+### <a name="survey"></a> Revalent Surveys
+* **Intuitive physics: Current research and controversies** <br>
+*Kubricht, James R., Keith J. Holyoak, and Hongjing Lu* <br>
+Trends in cognitive sciences, 2017. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1364661317301262) 
+
+* **Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense** <br>
+*Yixin Zhua,Tao Gao, Lifeng Fan, Siyuan Huang, Mark Edmonds, Hangxin Liu, Feng Gao, Chi Zhang, Siyuan Qia,Ying Nian Wua, Joshua B. Tenenbaum, Song-Chun Zhu*<br>
+Engineering, 2020. [[Paper]](https://arxiv.org/pdf/2004.09044.pdf) 
 
 <!-- 
-
+[Revalent Surveys](#survey)
 ## <a name="datasets"></a> Datasets
 * **Physion: Evaluating Physical Prediction from Vision in Humans and Machines.** <br>
 *Daniel M. Bear, Elias Wang, Damian Mrowca, Felix J. Binder, Hsiau-Yu Fish Tung, R. T. Pramod, Cameron Holdaway, Sirui Tao, Kevin Smith, Fan-Yun Sun, Li Fei-Fei, Nancy Kanwisher, Joshua B. Tenenbaum, Daniel L. K. Yamins, Judith E. Fan * <br>
