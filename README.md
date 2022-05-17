@@ -13,14 +13,6 @@ Research in cognitive science has provided extensive evidence of human cognitive
 Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
 
-<p align="center">
-  <img width="500" height="900" src="Table.png">
-</p>
-
-<p align="center">
-   <em>Summary of the work for intuitive physics for machine cognition.</em>
-</p>
-
 ## Table of Content
 - [Contributing](#contributing)
 - [Cognitive Science Literatures](#psychology)
@@ -49,7 +41,13 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
    <em>Summary of the six physical reasoning tasks</em>
 </p>
 
+<p align="center">
+  <img width="500" height="500" src="Table.png">
+</p>
 
+<p align="center">
+   <em>Summary of the work for intuitive physics for machine cognition.</em>
+</p>
 ## <a name="papers"></a> Papers on Intutive Physics for AI
 
 ### <a name="psychology"></a>Cognitive Science Literatures
