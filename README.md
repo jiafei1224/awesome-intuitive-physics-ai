@@ -41,13 +41,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
    <em>Summary of the six physical reasoning tasks</em>
 </p>
 
-<p align="center">
-  <img width="400" height="500" src="Table.png">
-</p>
 
-<p align="center">
-   <em>Summary of the work for intuitive physics for machine cognition.</em>
-</p>
 ## <a name="papers"></a> Papers on Intutive Physics for AI
 
 ### <a name="psychology"></a>Cognitive Science Literatures
