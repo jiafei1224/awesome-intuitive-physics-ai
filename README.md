@@ -1,5 +1,5 @@
 # Awesome Intuitive Physics AI ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-This repository contains resources (conference/journal publications, references to datasets) associated the work ["A Survey on Machine Learning Approaches for Modelling Intuitive Physics"](https://arxiv.org/abs/2202.06481) accepted at IJCAI-ECAI (Survey Track) with **18% Acceptance Rate**, 2022.
+This repository contains resources from the accepted survey paper on ["A Survey on Machine Learning Approaches for Modelling Intuitive Physics"](https://arxiv.org/abs/2202.06481) for the IJCAI-ECAI 2022 (Survey Track) with **18% Acceptance Rate**.
 
 With inspiration from, the [awesome](https://github.com/sindresorhus/awesome) lists and and [awesome-cogsci](https://github.com/abi-aryan/awesome-cogsci).
 
