@@ -12,7 +12,10 @@ Research in cognitive science has provided extensive evidence of human cognitive
 
 Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
-<a href="fig2-1.png"> <img src="fig2-1.png" width="100%" height="100%"></a>
+
+<p align="center">
+  <img width="460" height="300" src="fig2-1.png">
+</p>
 
 ## Table of Content
 - [Contributing](#contributing)
