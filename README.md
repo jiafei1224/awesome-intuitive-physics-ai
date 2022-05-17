@@ -10,7 +10,9 @@ Research in cognitive science has provided extensive evidence of human cognitive
 [![Last Commit](https://img.shields.io/github/last-commit/jiafei1224/awesome-intuitive-physics-ai)](https://github.com/jiafei1224/awesome-intuitive-physics-ai/)
 [![Contribution_welcome](https://img.shields.io/badge/Contributions-welcome-blue)](https://github.com/jiafei1224/awesome-intuitive-physics-ai/)
 
-By [Jiafei Duan](https://duanjiafei.com/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
+Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
+
+<a href="fig2-1.png"> <img src="fig2-1.png" width="60%" height="60%"></a>
 
 ## Table of Content
 - [Contributing](#contributing)
