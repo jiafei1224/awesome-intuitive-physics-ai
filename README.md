@@ -42,7 +42,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 </p>
 
 <p align="center">
-  <img width="500" height="500" src="Table.png">
+  <img width="400" height="500" src="Table.png">
 </p>
 
 <p align="center">
