@@ -34,7 +34,7 @@ When sending PRs, please put the new paper at the correct chronological position
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ```
 <p align="center">
-  <img width=100% height=100% src="fig2-1.png">
+  <img width=80% height=80% src="fig2-1.png">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 </p>
 
 <p align="center">
-  <img width="900" height="591" src="Table.png">
+  <img width=100% height=100% src="Table.png">
 </p>
 
 <p align="center">
