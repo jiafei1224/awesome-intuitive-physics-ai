@@ -14,7 +14,7 @@ Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers m
 
 
 <p align="center">
-  <img width="760" height="500" src="fig2-1.png">
+  <img width="860" height="500" src="fig2-1.png">
 </p>
 
 ## Table of Content
