@@ -15,8 +15,10 @@ Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers m
 
 <p align="center">
   <img width="860" height="500" src="fig2-1.png">
-  <em>Summary of the six physical reasoning tasks</em>
+</p>
 
+<p>
+   <em>Summary of the six physical reasoning tasks</em>
 </p>
 
 ## Table of Content
