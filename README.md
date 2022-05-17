@@ -228,9 +228,13 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2106.08261v2.pdf) [[Code]](https:
 * Unity Physics Engine (Unity)
 
 ## <a name="cite"></a> Cite
+Please cite the following paper.
+
+```
 @article{duan2022survey,
   title={A Survey on Machine Learning Approaches for Modelling Intuitive Physics},
   author={Duan, Jiafei and Dasgupta, Arijit and Fischer, Jason and Tan, Cheston},
   journal={arXiv preprint arXiv:2202.06481},
   year={2022}
 }
+```
