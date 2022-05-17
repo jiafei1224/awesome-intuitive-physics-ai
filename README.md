@@ -22,7 +22,7 @@ Any question contact [Jiafei Duan](https://duanjiafei.com/). If you see papers m
   - [Causal Reasoning](#causalreasoning)
 - [Revalent Surveys](#survey)
 - [Physics Engine](#physengine)
-- [Resources](#resources)
+- [Cite](#cite)
 
 
 ## <a name="contributing"></a> Contributing
@@ -227,4 +227,10 @@ NeurIPS, 2021. [[Paper]](https://arxiv.org/pdf/2106.08261v2.pdf) [[Code]](https:
 * Phyz
 * Unity Physics Engine (Unity)
 
-
+## <a name="cite"></a> Cite
+@article{duan2022survey,
+  title={A Survey on Machine Learning Approaches for Modelling Intuitive Physics},
+  author={Duan, Jiafei and Dasgupta, Arijit and Fischer, Jason and Tan, Cheston},
+  journal={arXiv preprint arXiv:2202.06481},
+  year={2022}
+}
